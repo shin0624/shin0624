@@ -15,6 +15,7 @@
 **Side Projects**
 - Steam, Google Play, Unity Asset Store Partner Developer
 - Unity 기반 PC·모바일 게임, Unity Engine Embeded-Tool 개발
+  - Windows, Android
 - Unity 기반 디지털 트윈 플랫폼 / 대시보드 개발
   - Unity Engine, Blender, MQTT, RESTful API, Cesium, ML-Agents, Inference Engine(Sentis) 등
 
