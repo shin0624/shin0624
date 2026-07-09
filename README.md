@@ -6,7 +6,7 @@
 - AI 팩토리 구축을 위한 MES-ERP 연계, 현장 Domain 특화 Scheduling Simulation 및 Workload Analysis SW 연구개발
   - C#, ASP.NET Core, Azure, Blazor, PostgreSQL 등
 - AI 모델 학습용 데이터 구축 자동화를 위한 정형/비정형 데이터 Annotation 자동화 시스템 개발
-  - gRPC, Ollama, OpenCV, FFmpeg, PySide6 등
+  - gRPC, Ollama, OpenCV, FFmpeg 등
 - 3D Pose Data 취득을 위한 Motion Capture Device 운용
   - Optitrack, XSENS MVN, Manus Glove 등
 - Edge Device에서의 Multi-Modal Data 수집 및 신체 상황 인지 기술 연구개발
