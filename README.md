@@ -27,4 +27,4 @@
 ## 💬 Contact
 
 <!-- 아래 배지를 누르면 Discussions 방명록 글로 이동합니다 -->
-[![Guestbook](https://img.shields.io/badge/💬_Comment-2ea44f?style=for-the-badge)](https://github.com/shin0624/shin0624/discussions/새로_만든_글_번호)
+[![Guestbook](https://img.shields.io/badge/💬_Comment-2ea44f?style=for-the-badge)](https://github.com/shin0624/shin0624/discussions/1)
