@@ -23,3 +23,8 @@
 - 한국정보기술학회 추계종합학술대회 우수논문상 - 딥러닝 기반 포즈 추정을 활용한 조립공정 작업자의 작업부하 자동 평가 시스템 개발 (2025.12, 한국정보기술학회)
 - 한국연구재단 2024 캡스톤디자인 전국경진대회 장려상(2024.11, LINC 3.0 사업단)
 - 2024 광주권 LINC 3.0 캡스톤 RISE STAR 우수상(2024.08, 광주권 LINC사업단)
+
+## 💬 Contact
+
+<!-- 아래 배지를 누르면 Discussions 방명록 글로 이동합니다 -->
+[![Guestbook](https://img.shields.io/badge/💬_방명록에_댓글_남기기-2ea44f?style=for-the-badge)](https://github.com/shin0624/shin0624/discussions/새로_만든_글_번호)
