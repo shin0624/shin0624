@@ -10,7 +10,7 @@
 - 3D Pose Data 취득을 위한 Motion Capture Device 운용
   - Optitrack, XSENS MVN, Manus Glove 등
 - Edge Device에서의 Multi-Modal Data 수집 및 신체 상황 인지 기술 연구개발
-  - C++, PPG, ECG, SMA, SpO2, Temp 등
+  - C++, Arduino 등
 
 **Side Projects**
 - Steam, Google Play, Unity Asset Store Partner Developer
